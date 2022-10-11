@@ -1,0 +1,65 @@
+{
+  "series":[
+    {
+      "id": 1,
+      "idserie": 1,
+      "titulo": "Friends",
+      "anolan": "1994"
+    },
+    {
+      "id": 2,
+      "idserie": 2,
+      "titulo": "Grey's Anatomy",
+      "anolan": "2005"
+    },
+   {
+      "id": 3,
+      "idserie": 3,
+      "titulo": "Pretty Little Liars",
+      "anolan": "2010"
+    },
+    {
+      "id": 4,
+      "idserie": 4,
+      "titulo": "Crazy Ex-Girlfriend",
+      "anolan": "2015"
+    },
+   {
+      "id": 5,
+      "idserie": 5,
+      "titulo": "Brooklyn 99",
+      "anolan": "2013"
+    },
+  ],
+
+  "dados":[
+    {
+      "id": 1,
+      "idserie": 1,
+      "elenco": "Courteney Cox (Monica Geller), Jennifer Aniston (Rachel Green), Lisa Kudrow (Phoebe Buffay), Matthew Perry (Chandler Bing), Matt LeBlanc (Joey Tribbiani), David Schwimmer (Ross Geller)",
+      "temporadas": "10",
+    },
+    {
+      "id": 2,
+      "idserie": 2,
+      "elenco": "Ellen Pompeo (Meredith Grey), Chandra Wilson (Miranda Bailey), Patrick Dempsey (Derek Shepard), Justin Chambers (Alex Karev), Sandra Oh (Cristina Young), Katherine Heigl (Isobel Stevens)",
+      "temporadas": "19",
+    },
+    {
+      "id": 3,
+      "idserie": 3,
+      "elenco": "Lucy Hale (Aria Montgomery), Ashley Benson (Hanna Marin), Shay Mitchell (Emily Fields), Troian Bellisario (Spencer Hastings), Sasha Pieterse (Alison DiLaurents)",
+      "temporadas": "7",
+    },
+      {
+      "id": 4,
+      "idserie": 4,
+      "elenco": "Rachel Bloom (Rebecca Bunch), Vicent Rodriguez III (Josh Chan), Santino Fontana (Greg Serrano)",
+      "temporadas": "4",
+    },
+    {
+      "id": 5,
+      "idserie": "Andy Samberg (Jake Peralta), Melissa Fumero (Amy Santiago), Terry Crews (Terry Jeffords), Stephanie Beatriz (Rosa Diaz), Chelsea Peretti (Gina Linetti), Andre Braugher (Raymond Holt), Joe Lo Truglio (Charles Boyle)",
+      "temporadas": "8",
+    },
+  ],
