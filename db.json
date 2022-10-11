@@ -1,5 +1,5 @@
 {
-  "series":[
+  "series":
     {
       "id": 1,
       "idserie": 1,
@@ -30,9 +30,8 @@
       "titulo": "Brooklyn 99",
       "anolan": "2013"
     },
-  ],
 
-  "dados":[
+  "dados":
     {
       "id": 1,
       "idserie": 1,
@@ -62,5 +61,4 @@
       "idserie": "Andy Samberg (Jake Peralta), Melissa Fumero (Amy Santiago), Terry Crews (Terry Jeffords), Stephanie Beatriz (Rosa Diaz), Chelsea Peretti (Gina Linetti), Andre Braugher (Raymond Holt), Joe Lo Truglio (Charles Boyle)",
       "temporadas": "8",
     },
-  ],
 },
